@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FreshWorks</string>
+    <string name="page_title_trending">Trending</string>
+    <string name="page_title_favs">Favorites</string>
+    <string name="search_empty_state">There is no content at this time...\nCheck back soon</string>
+</resources>
